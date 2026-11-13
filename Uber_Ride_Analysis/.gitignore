@@ -1,0 +1,10 @@
+@'
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+outputs/
+uber.csv
+uber_dataset.zip
+uber_extracted/
+'@ | Set-Content -Encoding ascii "C:\Users\Sabarisha\Desktop\Uber_Ride_Analysis\.gitignore"
